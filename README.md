@@ -192,3 +192,7 @@ To run tests, you need:
 2. Install Mocha `npm install -g mocha`
 3. Install Chai `npm install chai`
 4. Execute `mocha`
+
+
+For details: <A HREF="http://quoteshunter.com/sad-quotes/">http://quoteshunter.com/sad-quotes/</A></P>
+
